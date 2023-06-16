@@ -25,14 +25,45 @@
 ### 3.	Move the z3-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z3-axis assembly.
 
 ## OUTPUT:
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
+![Del 3D printer](https://github.com/abinayasangeetha/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119393675/2e457e23-df6f-43db-bf07-80eaf6a12641)
+## Base :
+   In the context of a delta 3D printer, the base refers to the stationary structure that supports the entire printer assembly. Delta 3D printers have a unique design characterized by three vertical towers arranged in a triangular configuration. 
+## Holder :
+   In a delta 3D printer, a "holder" typically refers to a component or mechanism that holds and secures various parts or tools of the printer. 
+## Rod :
+   In a delta 3D printer, rods play a crucial role in the overall mechanical structure and movement of the printer.
+## Top cover :
+   In a delta 3D printer, the term "top cover" generally refers to a protective enclosure or structure that covers the upper portion of the printer. 
+## Top cover frame : 
+   The "top cover frame" refers to the structure that supports and holds the top cover in place. It provides stability and rigidity to the cover while also allowing for easy access to the printer's internal components. 
+## Linear rail :
+   A"linear rail" refers to a type of linear motion system that is used to guide and support the movement of certain printer components.
+## Motor :
+   In a delta 3D printer, motors play a vital role in driving the movement of various components and enabling the printer's functionality.
+## Base :
+   The base refers to the stationary structure that serves as the foundation and support for the entire printer assembly.
+## Bed :
+   The "bed" refers to the platform or surface upon which the object being printed is built. It is also known as the build plate or print bed.
+## Slide with connector : 
+   A"slide with connector" is not a standard term or component. However, based on the description you provided, it seems you might be referring to a part related to the movement or connection mechanism in the printer.
+## Connecting Rods : 
+   Connecting rods are an essential component of the printer's mechanical structure. These rods are responsible for connecting the carriages, also known as effector arms or sleds, to the vertical towers of the printer.
+## Extruder :
+   In a delta 3D printer, the "extruder" refers to the component responsible for feeding filament into the hot end and melting it for deposition during the printing process.
+## Pins :
+   In a delta 3D printer, "pins" can refer to various components or connectors used in the printer's assembly and operation.
+## Motor with gear : 
+   A motor with gear typically refers to the extruder motor used to drive the filament into the hot end or nozzle. This type of motor is commonly equipped with a gear mechanism to provide additional torque and control for filament feeding. 
+## LCD : 
+   An LCD (Liquid Crystal Display) is a common user interface component used to provide information and control options to the operator.
+## Playing with axes:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
+![Playing with axes del3D](https://github.com/abinayasangeetha/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/119393675/e7968da7-02bb-4a2e-9605-432a5d2835c6)
 
-## Output:
-
-### Name:
-### Register Number:
+   
+   
+### Name: ROHIT G
+### Register Number: 212222240083
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
